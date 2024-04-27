@@ -21,12 +21,15 @@ The provided code implements the Agglomerative Clustering algorithm, a hierarchi
 
 ## File List
 1. `GNR_26.exe` : The executable to implement the program
-2. `GNR+26.py` : Python code for GUI and execution of the algorithm
+2. `GNR_26.py` : Python code for GUI and execution of the algorithm
 3. `src/model.py` : Contains the Hierarchical clustering model
 4. `src/utils.py` : Essential functions for implementing the model
+5. `images/raw` : Contains un-processed raw image
+6.  `images/segmented` : Contains segmented images of the above raw images
 
 ## Executing the Programe
 
+![Alt text](images/GUI.png)
 Shown above is the GUI for the programe. Select the image and output location using the buttons. Enter the number of clusters for which the algorithm has to be implemented, (default = 5). Once the parameters and input-output locations have been specified, start the segmentation. The result and input image will be shown as above. 
 
 *Note: Segmentation of the image roughly takes 8-10 minutes on a standard i5-16GB configuration*
