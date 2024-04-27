@@ -2,7 +2,7 @@
 
 The provided code implements the Agglomerative Clustering algorithm, a hierarchical clustering technique that starts with each data point as a separate cluster and merges the closest clusters iteratively until reaching the desired number of clusters (k).
 
-The executable file cann be accessed here [GNR_26](https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
+The executable file cann be accessed here [GNR_26.exe](https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
 
 ## Algorithm Steps
 1. **Initialization (__init__)**:
@@ -22,7 +22,7 @@ The executable file cann be accessed here [GNR_26](https://drive.google.com/driv
   - predict_center: Finds the center of the cluster to which a point belongs, using the computed cluster centers.
 
 ## File List
-1. `GNR_26.exe` : The executable to implement the program, can be accessed here [GNR_26](https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
+1. `GNR_26.exe` : The executable to implement the program, can be accessed here [GNR_26.exe](https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
 2. `GNR_26.py` : Python code for GUI and execution of the algorithm
 3. `src/model.py` : Contains the Hierarchical clustering model
 4. `src/utils.py` : Essential functions for implementing the model
