@@ -2,7 +2,7 @@
 
 The provided code implements the Agglomerative Clustering algorithm, a hierarchical clustering technique that starts with each data point as a separate cluster and merges the closest clusters iteratively until reaching the desired number of clusters (k).
 
-The executable file cann be accessed here [GNR_26}(https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
+The executable file cann be accessed here [GNR_26](https://drive.google.com/drive/folders/1xMu_keilJ_-_lbM9L8ocW968rWKAdIak?usp=sharing)
 
 ## Algorithm Steps
 1. **Initialization (__init__)**:
